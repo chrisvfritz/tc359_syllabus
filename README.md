@@ -32,10 +32,11 @@ Hours: by appointment (email me to set one up)
 
 - [Use Twitter Bootstrap to make websites not look terrible, even if you're not a designer](http://codekwondo.herokuapp.com/skills/27)
 - [Dry up Sinatra views with a layout file](http://codekwondo.herokuapp.com/skills/29)
+
+### Week 5 (2/09)
+
 - [Embed Ruby in Sinatra](http://codekwondo.herokuapp.com/skills/20)
 - [Use forms for more dynamic Sinatra views](http://codekwondo.herokuapp.com/skills/33)
-
-Week 5 (2/09): TBD
 
 Week 6 (2/16): TBD
 
