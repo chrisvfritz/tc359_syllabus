@@ -33,8 +33,8 @@ Hours: by appointment (email me to set one up)
 Due to the snow day for section 1, I'm modifying this week's assignment to fit better for out-of-class work. Students in this course have a lot of different areas of expertise. To take advantage of this diversity, each student is to do three things:
 
 1. Request at least 1 new resource related to some aspect of web development on [the TODO section of the TC359 Cheatsheets README](https://github.com/chrisvfritz/tc359_cheatsheets#todo). **This should be done before Wednesday at 12pm (noon).**
-2. Claim a resource (that you didn't request yourself), by moving the resource to a DOING section and appending your GitHub username in parentheses (e.g. `How to "undo" a commit in Git (chrisvfritz)`). If you can't find a resource you feel qualified to create, then contact me by email before the end of the day on Wednesday and I'll find something for you.
-3. Create a resource in [Markdown](https://help.github.com/articles/markdown-basics/) (`.md`) or Plain Text (`.txt`), organized in a logical place in [our tc359_cheatsheets GitHub repo](https://github.com/chrisvfritz/tc359_cheatsheets). The final resource should be live and polished before our next class on 2/09.
+2. Claim a resource (that you didn't request yourself), by moving the resource to a DOING section and appending your GitHub username in parentheses (e.g. `How to "undo" a commit in Git (chrisvfritz)`). If you can't find a resource you feel qualified to create, then contact me by email before the end of the day on Wednesday and I'll find something for you. **A resource should be claimed before the end of the day on Thursday.**
+3. Create a resource in [Markdown](https://help.github.com/articles/markdown-basics/) (`.md`) or Plain Text (`.txt`), organized in a logical place in [our tc359_cheatsheets GitHub repo](https://github.com/chrisvfritz/tc359_cheatsheets). **The final resource should be live and polished before our next class on 2/09.**
 
 **Q: What if I'm not sure where I could improve?**
 
