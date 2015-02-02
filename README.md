@@ -30,15 +30,31 @@ Hours: by appointment (email me to set one up)
 
 ### Week 4 (2/02)
 
-- [Use Twitter Bootstrap to make websites not look terrible, even if you're not a designer](http://codekwondo.herokuapp.com/skills/27)
-- [Dry up Sinatra views with a layout file](http://codekwondo.herokuapp.com/skills/29)
+Due to the snow day for section 1, I'm modifying this week's assignment to fit better for out-of-class work. Students in this course have a lot of different areas of expertise. To take advantage of this diversity, each student is to do three things:
+
+1. Request at least 1 new resource related to some aspect of web development on [the TODO section of the TC359 Cheatsheets README](https://github.com/chrisvfritz/tc359_cheatsheets#todo). **This should be done before Wednesday at 12pm (noon).**
+2. Claim a resource (that you didn't request yourself), by moving the resource to a DOING section and appending your GitHub username in parentheses (e.g. `How to "undo" a commit in Git (chrisvfritz)`). If you can't find a resource you feel qualified to create, then contact me by email before the end of the day on Wednesday and I'll find something for you.
+3. Create a resource in [Markdown](https://help.github.com/articles/markdown-basics/) (`.md`) or Plain Text (`.txt`), organized in a logical place in [our tc359_cheatsheets GitHub repo](https://github.com/chrisvfritz/tc359_cheatsheets). The final resource should be live and polished before our next class on 2/09.
+
+**Q: What if I'm not sure where I could improve?**
+
+A: If you'd like ideas for areas you could work on, I recommend checking out [this map of related knowledge areas](https://www.dropbox.com/s/3r51p9oo9msyzxv/rails_competencies_with_curriculum.png?dl=0). You can also talk to me in class (if you're in section 2) or email me if you'd like some help.
+
+**Q: Why are we doing this?**
+
+A: This gives us a chance to individually balance out our skillsets and is also an exercize in proactive personal development - an essential skill of a good web developer.
+
+If you have any questions, don't hesitate to email me or [open up a new GitHub issue](https://github.com/chrisvfritz/tc359_syllabus/issues/new) if you think these instructions need clarification.
 
 ### Week 5 (2/09)
 
+- [Use Twitter Bootstrap to make websites not look terrible, even if you're not a designer](http://codekwondo.herokuapp.com/skills/27)
+- [Dry up Sinatra views with a layout file](http://codekwondo.herokuapp.com/skills/29)
+
+### Week 6 (2/16)
+
 - [Embed Ruby in Sinatra](http://codekwondo.herokuapp.com/skills/20)
 - [Use forms for more dynamic Sinatra views](http://codekwondo.herokuapp.com/skills/33)
-
-Week 6 (2/16): TBD
 
 Week 7 (2/23): TBD
 
