@@ -54,23 +54,24 @@ If you have any questions, don't hesitate to email me or [open up a new GitHub i
 ### Week 6 (2/16)
 
 - [Embed Ruby in Sinatra](http://codekwondo.herokuapp.com/skills/20)
-- [Use forms for more dynamic Sinatra views](http://codekwondo.herokuapp.com/skills/33)
 
-Week 7 (2/23): TBD
+### Week 7 (2/23)
+
+- [Use forms for more dynamic Sinatra views](http://codekwondo.herokuapp.com/skills/33)
 
 Week 8 (3/02): TBD
 
 Week 9 (3/09): NO CLASS (Spring Break)
 
-Week 9 (3/16): TBD
+Week 10 (3/16): TBD
 
-Week 10 (3/23): TBD
+Week 11 (3/23): TBD
 
-Week 11 (4/06): TBD
+Week 12 (4/06): TBD
 
-Week 12 (4/13): TBD
+Week 13 (4/13): TBD
 
-Week 13 (4/20): TBD
+Week 14 (4/20): TBD
 
 Week 15 (4/27): TBD
 
