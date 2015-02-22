@@ -59,9 +59,11 @@ If you have any questions, don't hesitate to email me or [open up a new GitHub i
 
 - [Use forms for more dynamic Sinatra views](http://codekwondo.herokuapp.com/skills/33)
 
-Week 8 (3/02): TBD
+### Week 8 (3/02)
 
-Week 9 (3/09): NO CLASS (Spring Break)
+- [Organize code in helper methods in Sinatra](http://codekwondo.herokuapp.com/skills/40)
+
+### Week 9 (3/09): NO CLASS (Spring Break)
 
 Week 10 (3/16): TBD
 
