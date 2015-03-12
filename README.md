@@ -65,11 +65,17 @@ If you have any questions, don't hesitate to email me or [open up a new GitHub i
 
 ### Week 9 (3/09): NO CLASS (Spring Break)
 
-Week 10 (3/16): TBD
+### Week 10 (3/16)
 
-Week 11 (3/23): TBD
+- [Build a simple Rails app with static pages](http://codekwondo.herokuapp.com/skills/31)
 
-Week 12 (4/06): TBD
+### Week 11 (3/23)
+
+- [Attach a single model to a Rails app](http://codekwondo.herokuapp.com/skills/41)
+
+### Week 12 (4/06)
+
+- [Authentication (and very basic authorization) in Rails](http://codekwondo.herokuapp.com/skills/41)
 
 Week 13 (4/13): TBD
 
