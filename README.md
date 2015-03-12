@@ -8,7 +8,7 @@ TC359 is designed to introduce you to developing simple webapps in Ruby, with th
 
 Email: fritzchr@msu.edu
 
-Hours: by appointment ([schedule a 15-minute Hangout](https://calendly.com/chrisvfritz/15min/02-24-2015) **OR** email me for an in-person meeting)
+Hours: by appointment ([schedule a 15-minute Hangout](https://calendly.com/chrisvfritz/15min) **OR** email me for an in-person meeting)
 
 - - -
 
