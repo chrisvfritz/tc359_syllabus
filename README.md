@@ -73,15 +73,17 @@ If you have any questions, don't hesitate to email me or [open up a new GitHub i
 
 - [Attach a single model to a Rails app](http://codekwondo.herokuapp.com/skills/41)
 
-### Week 12 (4/06)
+### Week 12 (3/30)
 
 - [Authentication (and very basic authorization) in Rails](http://codekwondo.herokuapp.com/skills/41)
 
-Week 13 (4/13): TBD
+Week 13 (4/06): TBD
 
-Week 14 (4/20): TBD
+Week 14 (4/13): TBD
 
-Week 15 (4/27): TBD
+Week 15 (4/20): TBD
+
+Week 16 (4/27): TBD
 
 ## Projects
 
