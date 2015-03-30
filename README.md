@@ -75,7 +75,7 @@ If you have any questions, don't hesitate to email me or [open up a new GitHub i
 
 ### Week 12 (3/30)
 
-- [Authentication (and very basic authorization) in Rails](http://codekwondo.herokuapp.com/skills/41)
+- [Authentication (and very basic authorization) in Rails](http://codekwondo.herokuapp.com/skills/42)
 
 Week 13 (4/06): TBD
 
