@@ -77,13 +77,39 @@ If you have any questions, don't hesitate to email me or [open up a new GitHub i
 
 - [Authentication (and very basic authorization) in Rails](http://codekwondo.herokuapp.com/skills/42)
 
-Week 13 (4/06): TBD
+### Week 13 (4/06), Week 14 (4/13), Week 15 (4/20), Week 16 (4/27)
 
-Week 14 (4/13): TBD
+We now all have a Rails project, with a single model and some very basic authentication. Those are the basics that you'll need for pretty much *any* app. From here though, there are *so many* things we could work on.
 
-Week 15 (4/20): TBD
+Web development is a freakin' huge topic. In terms of languages, you could dive deeper into Ruby, Bash, CSS, SCSS, Less, JavaScript, CoffeeScript, ECMAScript 6, ERB, HAML, Slim, and more. Libraries and features you could learn to integrate are practically endless.
 
-Week 16 (4/27): TBD
+Combined with the fact that your interests and career goals are extremely varied, it makes more sense for us to branch out at this point. To facilitate this, the rest of the semester will work a little differently.
+
+#### We've reached the 3.0 mark
+
+Everyone with approved projects for up to and including *Authentication (and very basic authorization) in Rails* has a 3.0 in the course. Congratulations! You should also know by now if you have any interest in web development. If you don't, that's OK and you can focus your energies elsewhere if you'd like.
+
+That means **I will no longer be enforcing the attendance policy, *except* for on the last day of class (4/27)**. I know this last stretch of the semester can be very busy, so use this time how you see fit.
+
+#### How to earn a 4.0
+
+If you want a 4.0, we'll be working on a single portfolio repository for the rest of the semester, optionally based off the Rails app you've built so far. **This will be in a GitHub repository called `tc359_rails_final` and will *not* be evaluated through Codekwondo**.
+
+Instead, we're simply using Codekwondo to *organize* the skills available to master. Each of these skills begins with a number in parentheses. `(1)` means it's worth 1 point, `(2)` means it's worth 2 points, etc. Each point is worth 0.2 towards your final grade, meaning you need 5 more points to earn a 4.0 in the course.
+
+At the time of writing, there are already 14 skills available, worth up to 20 points, so you certainly don't have to complete all of them! If you do choose to go above and beyond however, I will still be happy to give you feedback. If you think of another skill you'd like to master to improve your project, let me know and I'll add it! Make sure to also check out [the graph of skills](http://codekwondo.herokuapp.com/courses/4#dag), which maps out the prerequisite relationships, so that you don't attempt a skill you're not ready for.
+
+When you want to start working on a skill, here's what you do:
+
+1. Open an issue on your `tc359_rails_final` repo, titled with the name of the skill you're working on.
+2. Ping me with `@chrisvfritz` for any questions you have while working on this skill.
+3. Add any great resources you find while working on that skill to the resources list on Codekwondo.
+3. Ping me with `@chrisvfritz` when you think you've met the requirements listed in the slides.
+4. When I post a comment on that issue with a :+1:, it's officially approved.
+
+You'll work on these projects on your own timeline, though **they must be completed by the end of the day on 4/27, then approved by the end of the following Friday (5/1)**, for them to count toward your final grade.
+
+Since you're managing your own timeline, this also means that **the strike policy for missed deadlines will no longer be relevant through the end of the course**.
 
 ## Projects
 
