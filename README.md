@@ -97,7 +97,13 @@ If you want a 4.0, we'll be working on a single portfolio repository for the res
 
 Instead, we're simply using Codekwondo to *organize* the skills available to master. Each of these skills begins with a number in parentheses. `(1)` means it's worth 1 point, `(2)` means it's worth 2 points, etc. Each point is worth 0.2 towards your final grade, meaning you need 5 more points to earn a 4.0 in the course.
 
-At the time of writing, there are already 14 skills available, worth up to 20 points, so you certainly don't have to complete all of them! If you do choose to go above and beyond however, I will still be happy to give you feedback. If you think of another skill you'd like to master to improve your project, let me know and I'll add it! Make sure to also check out [the graph of skills](http://codekwondo.herokuapp.com/courses/4#dag), which maps out the prerequisite relationships, so that you don't attempt a skill you're not ready for.
+At the time of writing, there are already 14 skills available, worth up to 20 points, so you certainly don't have to complete all of them! If you do choose to go above and beyond however, I will still be happy to give you feedback. If you think of another skill you'd like to master to improve your project, let me know and I'll add it! Make sure to also check out [the graph of skills](http://codekwondo.herokuapp.com/courses/4#dag), which maps out prerequisite relationships, so that you don't attempt a skill you're not ready for.
+
+It's worth noting that these skills are also quite different from previous ones. We're taking yet another step closer to the kind of work you would do as a real developer. For each skill, I've gathered some resources to help you master it, but it's your job to figure out how to use those resources - and others you might find - to solve the problem you chose. Research is *incredibly* important in web development, since the field is constantly changing, and the best-paying jobs require frequently learning new things.
+
+This certainly does *not* mean you can't ask for help or pick my brain. Asking for help is still very important and in most entry positions, more senior developers would exist as a resource when you're stuck or even fear that you're doing things the wrong way. As always, I'm happy to help as often as I'm needed.
+
+#### What to do when working on a skill
 
 When you want to start working on a skill, here's what you do:
 
@@ -106,6 +112,8 @@ When you want to start working on a skill, here's what you do:
 3. Add any great resources you find while working on that skill to the resources list on Codekwondo.
 3. Ping me with `@chrisvfritz` when you think you've met the requirements listed in the slides.
 4. When I post a comment on that issue with a :+1:, it's officially approved.
+
+#### Working on your own timeline
 
 You'll work on these projects on your own timeline, though **they must be completed by the end of the day on 4/27, then approved by the end of the following Friday (5/1)**, for them to count toward your final grade.
 
